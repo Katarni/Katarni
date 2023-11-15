@@ -8,6 +8,6 @@ If you have some offers for me, you can send email to me.
 - 🔭 I’m currently working on my projects for olympiads.
 - 🌱 I’m currently studying in PhisTech Lyceum.
 - 📫 How to reach me:
-  \n-> ahmetzianov.temur@ya.ru
-  \n-> timurchik0501@gmail.com
-  \n-> katarni.timur@ftl.name
+  __-> ahmetzianov.temur@ya.ru
+  __-> timurchik0501@gmail.com
+  __-> katarni.timur@ftl.name
