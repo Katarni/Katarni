@@ -9,7 +9,7 @@ If you have some offers for me, you can send email to me.
 - 🌱 I’m currently studying in PhisTech Lyceum.
 - 📫 How to reach me:
 ```
-  <br>-- ahmetzianov.temur@ya.ru
-  <br>-- timurchik0501@gmail.com
-  <br>-- katarni.timur@ftl.name
+  ahmetzianov.temur@ya.ru
+  timurchik0501@gmail.com
+  katarni.timur@ftl.name
 ```
