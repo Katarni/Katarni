@@ -9,7 +9,5 @@ If you have some offers for me, you can send email to me.
 - 🌱 I’m currently studying in PhisTech Lyceum.
 - 📫 How to reach me:
   + ahmetzianov.temur@ya.ru
-  + timurchik0501@gmail.com
-  + katarni.timur@ftl.name
   + @katarni (telegram)
 
