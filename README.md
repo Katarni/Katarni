@@ -11,4 +11,5 @@ If you have some offers for me, you can send email.
   + katarni.timur@ftl.name
   + [Katarni](https://t.me/Katarni) telegram
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Katarni&show_icons=true&locale=en" alt="irval1337"/></p>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=Katarni&show_icons=true&locale=en&layout=compact&theme=light"/>
