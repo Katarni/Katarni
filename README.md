@@ -8,6 +8,7 @@ If you have some offers for me, you can send email.
 - 🌱 I’m currently studying in PhisTech Lyceum.
 - 📫 How to reach me:
   + katarni.timur@ftl.name
+  + ahmetzianov.temur@ya.ru
   + [Katarni](https://t.me/Katarni) telegram
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Katarni&show_icons=true&locale=en" alt="irval1337"/></p>
