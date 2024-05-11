@@ -5,11 +5,11 @@ Just a man trying to find his way.
 
 - 🌱 I’m currently learning **sport programming**
 
-- 📫 How to reach me [t.me/Katarni](t.me/Katarni)
+- 📨 Write to me on [telegram](t.me/Katarni)
 
 - 📫 How to reach me **ahmetzianov.temur@ya.ru**
 
-- 📝 I regularly write articles on [https://t.me/+q0oHX43KUvk2NTUy](https://t.me/+q0oHX43KUvk2NTUy)
+- 📝 I write regularly in my [channel](https://t.me/+q0oHX43KUvk2NTUy)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Katarni&" alt="Katarni" /></p>
 
