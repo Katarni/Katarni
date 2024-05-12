@@ -1,6 +1,9 @@
 # Well, I'm Katarni 🦄
 Just a man trying to find his way.
 
+[![Katarni's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Katarni\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/Katarni/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
+
+
 - 🌱 I’m currently learning **sport programming**
 
 - 📨 Write to me on [telegram](t.me/Katarni)
@@ -9,7 +12,7 @@ Just a man trying to find his way.
 
 - 📝 I write regularly in my [channel](https://t.me/+q0oHX43KUvk2NTUy)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Katarni&" alt="Katarni" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Katarni&theme=dark#gh-dark-mode-only" alt="Katarni" /></p>
 
 <h3 align="left">Look at my progress</h3>
 <p align="left">
@@ -17,8 +20,6 @@ Just a man trying to find his way.
 <a href="https://www.leetcode.com/katarni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="katarni" height="30" width="40" /></a>
 </p>
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Katarni?theme=light&extension=activity)](https://leetcard.jacoblin.cool/Katarni?theme=unicorn&extension=activity)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Katarni?extension=activity)](https://leetcard.jacoblin.cool/Katarni?extension=activity)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=katarni&show_icons=true&locale=en&layout=compact" alt="katarni" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=katarni&show_icons=true&locale=en" alt="katarni" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=katarni&show_icons=true&locale=en&layout=compact&theme=dark#gh-dark-mode-only" alt="katarni" /></p>
