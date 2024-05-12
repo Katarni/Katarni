@@ -1,6 +1,4 @@
 # Well, I'm Katarni 🦄
-Ok. My username is $Katarni$ :star_struck:, but my real name is $Akhmetzianov$ $Timur$.
-
 Just a man trying to find his way.
 
 - 🌱 I’m currently learning **sport programming**
