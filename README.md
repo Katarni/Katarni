@@ -26,5 +26,4 @@ Just a man trying to find his way.
 
 [![Katarni's top langs](https://github-readme-stats.vercel.app/api/top-langs?username=katarni&show_icons=true&locale=en&layout=compact&theme=dark#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api/top-langs?username=katarni&show_icons=true&locale=en&layout=compact&theme=dark#gh-dark-mode-only)
 
-
 [![Katarni's top langs](https://github-readme-stats.vercel.app/api/top-langs?username=katarni&show_icons=true&locale=en&layout=compact&theme=light#gh-light-mode-only)](https://github-readme-stats.vercel.app/api/top-langs?username=katarni&show_icons=true&locale=en&layout=compact&theme=light#gh-light-mode-only)
