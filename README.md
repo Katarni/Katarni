@@ -9,6 +9,8 @@ Just a man trying to find his way.
 
 - 📨 Write to me on [telegram](t.me/Katarni)
 
+- 🌐 Visit my [website](katarni.me)
+
 - 📫 How to reach me **ahmetzianov.temur@ya.ru**
 
 - 📝 I write regularly in my [channel](https://t.me/+q0oHX43KUvk2NTUy)
