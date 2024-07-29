@@ -7,9 +7,9 @@ Just a man trying to find his way.
 
 - 🌱 I’m currently learning **sport programming**
 
-- 📨 Write to me on [telegram](t.me/Katarni)
+- 📨 Write to me on [telegram](https:://t.me/Katarni)
 
-- 🌐 Visit my [website](katarni.me)
+- 🌐 Visit my [website](https:://katarni.me)
 
 - 📫 How to reach me **ahmetzianov.temur@ya.ru**
 
