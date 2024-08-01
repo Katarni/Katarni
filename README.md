@@ -11,7 +11,7 @@ Just a man trying to find his way.
 
 - 🌐 Visit my [website](https://katarni.me)
 
-- 📫 How to reach me **ahmetzianov.temur@ya.ru**
+- 📫 Send me email **ahmetzianov.temur@ya.ru**
 
 - 📝 I write regularly in my [channel](https://t.me/+q0oHX43KUvk2NTUy)
 
