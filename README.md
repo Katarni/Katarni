@@ -2,7 +2,7 @@
 Just a man trying to find his way.
 
 [![Katarni's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Katarni\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/Katarni/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
-[![Katarni's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Katarni\&show_icons=true\&theme=light#gh-light-mode-only)](https://github.com/Katarni/github-readme-stats#responsive-card-theme#gh-light-mode-only)
+[![Katarni's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Katarni\&show_icons=true\&theme=light#gh-light-mode-only)](https://github.com/Katarni/github-readme-stats#responsive-card-theme#gh-light-mode-only)
 
 
 - 🌱 I’m currently learning **sport programming**
