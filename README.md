@@ -1,4 +1,4 @@
-# Well, I'm Katarni 🦄
+# Well, I'm Katarni 🤩
 Just a man trying to find his way.
 
 [![Katarni's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Katarni\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/Katarni/github-readme-stats#responsive-card-theme#gh-dark-mode-only)   [![Katarni's top langs](https://github-readme-stats.vercel.app/api/top-langs?username=katarni&show_icons=true&locale=en&layout=compact&theme=dark#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api/top-langs?username=katarni&show_icons=true&locale=en&layout=compact&theme=dark#gh-dark-mode-only)
