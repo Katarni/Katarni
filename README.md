@@ -18,5 +18,4 @@ Just a man trying to find his way.
 <h3 align="left">Look at my progress</h3>
 <p align="left">
 <a href="https://codeforces.com/profile/katarni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="katarni" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/katarni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="katarni" height="30" width="40" /></a>
 </p>
