@@ -13,7 +13,7 @@ Just a man trying to find his way.
 
 - 📫 Send me email **ahmetzianov.temur@ya.ru**
 
-- 📝 I write regularly in my [channel](https://t.me/+q0oHX43KUvk2NTUy)
+- 📝 I write regularly in my [channel](https://t.me/+WcRV0d_2u880ZTI6)
 
 <h3 align="left">Look at my progress</h3>
 <p align="left">
