@@ -5,7 +5,7 @@ Just a man trying to find his way.
 
 - 📨 Write to me on [telegram](https://t.me/Katarni)
 
-- 🌐 Visit my [website](katarni.github.io)
+- 🌐 Visit my [website](https://katarni.github.io)
 
 - 📫 Send me email **ahmetzianov.temur@ya.ru**
 
