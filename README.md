@@ -1,15 +1,12 @@
-# Well, I'm Katarni 🤩
-Just a man trying to find his way.
+# Katarni
 
-- 🌱 I’m currently learning **some interesting algorithms**
+- 🌱 busy studying (help)
 
-- 📨 Write to me on [telegram](https://t.me/Katarni)
+- 📨 available on [telegram](https://t.me/Katarni)
 
 - 🌐 Visit my [website](https://katarni.github.io)
 
-- 📫 Send me email **ahmetzianov.temur@ya.ru**
-
-- 📝 I write regularly in my [channel](https://t.me/+WcRV0d_2u880ZTI6)
+- 📫 Send me email **ahmetzianov.temur@ya.ru** (highly not recomended for non-working chatting)
 
 <h3 align="left">Look at my progress</h3>
 <p align="left">
