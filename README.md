@@ -5,9 +5,9 @@ I use [arch](https://github.com/Katarni/dots), btw
 
 - 📨 available on [telegram](https://t.me/Katarni)
 
-- 🌐 Visit my [website](https://katarni.github.io)
+- 🌐 visit my [webpage](https://katarni.github.io)
 
-- 📫 Send me email **ahmetzianov.temur@ya.ru** (highly not recomended for non-working chatting)
+- 📫 send me email **ahmetzianov.temur@ya.ru** (highly not recomended for non-working chatting)
 
 <h3 align="left">Look at my progress</h3>
 <p align="left">
