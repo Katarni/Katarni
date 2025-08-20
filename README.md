@@ -1,4 +1,4 @@
-# Katarni
+# well well well
 I use [arch](https://github.com/Katarni/dots), btw
 
 - 🌱 busy studying (help)
