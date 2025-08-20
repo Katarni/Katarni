@@ -1,4 +1,5 @@
-# well well well
+# Hi, I'm Katarni
+I'm a little russian programmer
 I use [arch](https://github.com/Katarni/dots), btw
 
 - 🌱 busy studying (help)
