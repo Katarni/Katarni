@@ -3,7 +3,7 @@ I use [arch](https://github.com/Katarni/dots), btw
 
 - 🌱 busy studying (help)
 
-- 📨 available on [telegram](https://t.me/Katarni)
+- 📨 available on [telegram](https://t.me/katarnisbuffer)
 
 - 🌐 visit my [webpage](https://katarni.github.io)
 
